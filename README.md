@@ -1,4 +1,4 @@
-# ProjectEuler🤔
+# ProjectEuler :mortar_board:
 Repository of Euler problems and solutions
 
 https://www.projecteuler.net/
