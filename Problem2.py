@@ -1,1 +1,2 @@
-# Even Fibonacci Numbers
+# Even Fibonacci Numbers (each # is prior two #'s added)
+# 1, 2, 3, 5, 8, 13, 21, ...
